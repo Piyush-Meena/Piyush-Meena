@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Piyush-Meena
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React Native from my sister.
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 <!---
