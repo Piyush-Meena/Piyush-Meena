@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Piyush-Meena
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React Native from my sister.
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
 
 
 <!---
