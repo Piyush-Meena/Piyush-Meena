@@ -20,14 +20,14 @@ Other languages I do like are **CSS , JavaScript and SCSS**.
  
  
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=996icu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sindresorh&show_icons=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Meena&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sindresorh&theme=blue-green)
 
 
 
 ## 3. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Piyush-Meena)
+![Profile View Counter](https://komarev.com/ghpvc/?username=sindresorh)
 
 
 
