@@ -35,7 +35,9 @@ Other languages I do like are **CSS , JavaScript and SCSS**.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 > I hate losing from my opponents , but I love losing from my Friends. 
-> Piyush...
+
+
+Piyush...
     
 
     Thanks for viewing my profile.
